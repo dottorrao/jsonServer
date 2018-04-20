@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1",
+      "label": "Fabio",
+      "gender": "F",
+      "age": "20"
+    },
+    {
+      "gender": "F",
+      "label": "Marianna",
+      "id": "2",
+      "age": "201"
+    },
+    {
+      "gender": "M",
+      "label": "Mario",
+      "id": "3",
+      "age": "20"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
